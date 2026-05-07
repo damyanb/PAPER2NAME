@@ -1,4 +1,4 @@
-# PDF2NAME
+# PAPER2NAME
 
 El script permite tomar una carpeta con papers en pdf con cualquier nombre y renombrarlos de una forma mas clara usando una cita corta
 
